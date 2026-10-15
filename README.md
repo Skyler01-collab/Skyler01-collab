@@ -55,7 +55,7 @@ public class Skyler {
 | Project | What it shows |
 |---------|---------------|
 | [📚 book-application](https://github.com/Skyler01-collab/book-application) | CRUD, JPA, pagination, validation, DTOs, exception handling, Mockito and MockMvc tests |
-| 🔐 Task API with JWT *(coming soon)* | Spring Security, JWT login and refresh tokens, role-based access |
+| 🔐 [Task API with JWT](https://github.com/Skyler01-collab/spring-boot-jwt-photo-album-api) | Spring Security, JWT login and refresh tokens, role-based access |
 
 ## 📊 GitHub stats
 
